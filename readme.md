@@ -1,8 +1,8 @@
-#Chat IO
+# Chat IO
 
 This project is simple implementation of chatting system with username and [socket.io](https://socket.io/)
 
-##Installation
+## Installation
 Run app with this command :
 
 - ``` $ npm install```
