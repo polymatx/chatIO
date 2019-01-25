@@ -1,4 +1,4 @@
-##**Chat IO**
+#Chat IO
 
 This project is simple implementation of chatting system with username and [socket.io](https://socket.io/)
 
